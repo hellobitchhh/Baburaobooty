@@ -18,11 +18,11 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = ("`Bleep blop! This is a bot. Don't fret.`\n\n"
-                  "`My master hasn't approved you to PM.`"
-                  "`Please wait for my master to look in, he mostly approves PMs.`\n\n"
-                  "`Until then, please don't spam my PM, you'll get blocked and reported!`\n"
-                  "`As far as I know, he doesn't usually approve retards though.`")
+UNAPPROVED_MSG = ("`Aham bramhasmi! This is a baburaobotty. Don't fret.`\n\n"
+                  "`Baburao hasn't approved you to PM.`"
+                  "`Please wait for my pero sur baburao to look in, he is very good guy.`\n\n"
+                  "`Until then, please don't fuck my PM, you'll get fucked and reported!`\n"
+                  "`As far as I know, he doesn't usually approve madharchods though.`")
 # =================================================================
 
 
@@ -71,7 +71,7 @@ async def permitpm(event):
                 if COUNT_PM[event.chat_id] > 4:
                     await event.respond(
                         "`You were spamming my peru master's Inox.`\n"
-                        "`You chuu nubfuk been BLOCKED and reported as SPAM, now GTFO.`"
+                        "`You chuu nubfuk been Fucked and reported as SPAM, now GTFO.`"
                     )
 
                     try:

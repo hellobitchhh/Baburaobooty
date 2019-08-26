@@ -373,9 +373,9 @@ RAPE_STRINGS = [
      "`Lodu Andha hai kya Yaha tera rape ho raha hai aur tu abhi tak yahi gaand mara raha hai lulz`",
 ] 
 ABUSE_STRINGS = [
-       "`Madharchod`",
-	   "`Gaandu`",
-	   "`Chutiya he rah jaye ga`",
+       "`Kahat baburao muska ke maro lund uska ke`",
+	   "`Kyu Du Main Tumhe Ye Dua Ki Meri Umar Tumhe Lag Jaaye,Kya Pata Mera Aakhri Din Ho Aur Tumhari maa chud Jaaye`",
+	   "`Baburao Ki Car Mein Ghatna Ghati Gambhir,ChoOt Maari Sant Ne Fas Gaye Sant Kabir`",
 	   "`Ja be Gaandu`",
 	   "`Ma ka Bharosa madharchod`",
 	   "`mml`",
